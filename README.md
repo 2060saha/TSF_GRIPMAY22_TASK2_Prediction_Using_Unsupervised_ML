@@ -8,6 +8,6 @@ Problem Statement : From the given 'Iris' dataset, predict the optimum number of
 Links:-
 
     Dataset Given: https://bit.ly/3kXTdox  
-    Linkedln Link: 
+    Linkedln Link: https://www.linkedin.com/posts/sharmistha-saha-0aa277205_businessanalytics-datascience-internship-activity-6928994376274624512-ABLR?utm_source=linkedin_share&utm_medium=member_desktop_web
     
 Tags:  #GRIPMAY22 #tsf #tsfgrip #thesparksfoundation    
